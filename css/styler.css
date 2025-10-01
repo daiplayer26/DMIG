@@ -319,6 +319,43 @@ footer {
     transform: scale(1.1);
 }
 
+/* Contenedor para posicionar el botón sobre el video */
+.video-container {
+    position: relative;
+    /* Ajusta el ancho según donde lo coloques en tu layout */
+    max-width: 100%; 
+    margin: 20px 0;
+}
+
+/* El video ocupa todo el espacio del contenedor */
+.video {
+    width: 100%;
+    height: auto;
+    display: block; 
+}
+
+/* Estilos para el botón de control de sonido */
+#toggle-sound-btn {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    background-color: rgba(136, 0, 75, 0.7); /* Color principal semitransparente */
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10; /* Asegura que esté sobre el video */
+}
+
+#toggle-sound-btn:hover {
+    background-color: var(--color-principal);
+}
 
 /* Media Queries para pantallas más grandes */
 @media (min-width: 768px) {
