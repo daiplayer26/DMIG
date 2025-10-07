@@ -93,33 +93,11 @@ h3 { font-size: 1.5em; }
     height: auto;
 }
 
-/*.planoct{
-    width: 250px; /* Un tamaño más razonable para un logo */
-    /*height:auto;} <img src="logo dmig.png" class="planoct"> */
-    
-/*                   <li><strong>06 de Octubre:</strong> Taller de Autoexploración Mamaria.</li>
-                    <li><strong>07 de Octubre:</strong> Charlas de Nutrición y Prevención.</li>
-                    <li><strong>08 de Octubre:</strong> Jornada de Orientación Médica Gratuita.</li>
-                    <li><strong>09 de Octubre:</strong> Caminata Solidaria "Un paso por la vida".</li>
-                    <li><strong>10 de Octubre:</strong> Taller de Autoexploración Mamaria.</li>
-                    <li><strong>11 de Octubre:</strong> Charlas de Nutrición y Prevención.</li>
-                    <li><strong>13 de Octubre:</strong> Jornada de Orientación Médica Gratuita.</li>
-                    <li><strong>14 de Octubre:</strong> Caminata Solidaria "Un paso por la vida".</li>
-                    <li><strong>15 de Octubre:</strong> Taller de Autoexploración Mamaria.</li>
-                    <li><strong>16 de Octubre:</strong> Charlas de Nutrición y Prevención.</li>
-                    <li><strong>17 de Octubre:</strong> Jornada de Orientación Médica Gratuita.</li>
-                    <li><strong>18 de Octubre:</strong> Caminata Solidaria "Un paso por la vida".</li>
-                    <li><strong>20 de Octubre:</strong> Taller de Autoexploración Mamaria.</li>
-                    <li><strong>21 de Octubre:</strong> Charlas de Nutrición y Prevención.</li>
-                    <li><strong>22 de Octubre:</strong> Jornada de Orientación Médica Gratuita.</li>
-                    <li><strong>23 de Octubre:</strong> Caminata Solidaria "Un paso por la vida".</li>
-                    <li><strong>24 de Octubre:</strong> Taller de Autoexploración Mamaria.</li>
-                    <li><strong>25 de Octubre:</strong> Charlas de Nutrición y Prevención.</li>
-                    <li><strong>26 de Octubre:</strong> Jornada de Orientación Médica Gratuita.</li>
-                    <li><strong>27 de Octubre:</strong> Jornada de Orientación Médica Gratuita.</li>
-                    <li><strong>29 de Octubre:</strong> Caminata Solidaria "Un paso por la vida".</li>
-                    <li><strong>30 de Octubre:</strong> Taller de Autoexploración Mamaria.</li>
-                    <li><strong>31 de Octubre:</strong> Charlas de Nutrición y Prevención.</li>*/
+.ago {
+    width: 450px; /* Un tamaño más razonable para un logo */
+    height: auto;
+}
+
 .img-hero {
     width: 100%;
     max-width: 500px;
